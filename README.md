@@ -1,1 +1,1 @@
-# Medical_dictionary
+# Medical_dictionary via terminal
